@@ -24,8 +24,12 @@ end
 
 def modulo(num1, num2)
   remainder = num2 / num1
+  puts remainder
+  remainder
 end
 
 def square_root(num)
   square = num **2 
+  puts square
+  square
 end
